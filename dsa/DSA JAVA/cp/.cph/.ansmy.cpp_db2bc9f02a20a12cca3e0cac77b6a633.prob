@@ -1,0 +1,1 @@
+{"name":"Local: ansmy","url":"/Users/yashjain/dsa/DSA JAVA/cp/ansmy.cpp","tests":[{"id":1715789882947,"input":"1\n5\n99 2 6 18 8 \n3 1 19 17 9 8","output":"3\n1\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashjain/dsa/DSA JAVA/cp/ansmy.cpp","group":"local","local":true}

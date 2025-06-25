@@ -1,0 +1,1 @@
+{"name":"Local: d","url":"/Users/yashjain/TLE/cp1013/d.cpp","tests":[{"id":1742996990733,"input":"6\n3 4 7\n5 5 5\n1 13 2\n2 4 7\n1 5 4\n1 5 3\n","output":"2\n1\n1\n4\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashjain/TLE/cp1013/d.cpp","group":"local","local":true}

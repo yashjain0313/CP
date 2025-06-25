@@ -1,0 +1,1 @@
+{"name":"Local: 1st","url":"/Users/yashjain/dsa/cses/contests cc/1st.cpp","tests":[{"id":1718505154929,"input":"3\n4 5 7\n3 1 2\n5 2 6","output":"20\n3\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashjain/dsa/cses/contests cc/1st.cpp","group":"local","local":true}

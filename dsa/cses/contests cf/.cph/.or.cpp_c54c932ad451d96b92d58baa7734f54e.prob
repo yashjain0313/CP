@@ -1,0 +1,1 @@
+{"name":"Local: or","url":"/Users/yashjain/dsa/cses/contests cf/or.cpp","tests":[{"id":1720624552979,"input":"2\n2\n6 16\n4\n1 17 28 15 ","output":"2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yashjain/dsa/cses/contests cf/or.cpp","group":"local","local":true}
